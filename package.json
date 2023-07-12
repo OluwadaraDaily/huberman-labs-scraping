@@ -1,0 +1,23 @@
+{
+  "name": "huberman-labs-scraping",
+  "version": "1.0.0",
+  "description": "This is a web scraping project on the Huberman Labs Podcasts website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OluwadaraDaily/huberman-labs-scraping.git"
+  },
+  "author": "Oluwadara Oloye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OluwadaraDaily/huberman-labs-scraping/issues"
+  },
+  "homepage": "https://github.com/OluwadaraDaily/huberman-labs-scraping#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
